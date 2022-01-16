@@ -1,0 +1,1 @@
+alert('Salsa is Exist in this world!');
